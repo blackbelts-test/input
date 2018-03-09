@@ -1,18 +1,28 @@
-# Well this is a head-line
+<!DOCTYPE html>
+<html>
 
-## This is a bit smaller
+<head>
+    <title>Page Title</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
 
-### This is even smaller
+<body>
+    <h1>Well this is a head-line</h1>
+    <h2>This is a bit smaller</h2>
+    <h3>This is even smaller</h3>
+    <h4>Smallest?</h4>
+    <p>Regular body text.
+        <br /> With line break.</p>
+    <p>Two lines without line break between!
+    </p>
+    <p>New line for trigged release.</p>
+    <p>Og her er der nogle danske bogstaver: æøå ÆØÅ</p>
+    <p>Will this
+        <b>work</b> at all?</p>
+    <p>An image below here
+        <br />
+        <img src="Images/Introduction/WheelOfLife2.jpg" alt="" />
+    </p>
+</body>
 
-#### Smallest?
-
-Regular body text.  
-With line break.  
-
-Two lines without line break
-between!  
-
-New line for trigged release.  
-
-### New line to trigger yet another build!  
-This a another line.
+</html>
