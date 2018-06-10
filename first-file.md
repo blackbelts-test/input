@@ -20,7 +20,8 @@ Regular body text.
 With line break.  
 
 New content.  
-Again.
+Again.  
+Trigger build for HTML and PDF.  
 
 Two lines without line break
 between!  
