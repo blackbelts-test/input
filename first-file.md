@@ -19,7 +19,8 @@
 Regular body text.  
 With line break.  
 
-New content.
+New content.  
+Again.
 
 Two lines without line break
 between!  
