@@ -7,22 +7,32 @@
 </head>
 
 <body>
-    <h1>Well this is a head-line</h1>
-    <h2>This is a bit smaller</h2>
-    <h3>This is even smaller</h3>
-    <h4>Smallest?</h4>
-    <p>Regular body text.
-        <br /> With line break.</p>
-    <p>Two lines without line break between!
-    </p>
-    <p>New line for trigged release.</p>
-    <p>Og her er der nogle danske bogstaver: æøå ÆØÅ</p>
-    <p>Will this
-        <b>work</b> at all?</p>
-    <p>An image below here
-        <br />
-        <img src="Images/Introduction/WheelOfLife2.jpg" alt="" />
-    </p>
+
+# Well this is a head-line
+
+## This is a bit smaller
+
+### This is even smaller
+
+#### Smallest?
+
+Regular body text.  
+With line break.  
+
+New content.
+
+Two lines without line break
+between!  
+
+New line for trigged release.  
+
+Og her er der nogle danske bogstaver: æøå ÆØÅ  
+
+<p>Will this <b>work</b> at all?</p>
+
+An image below here  
+![](Images/Introduction/WheelOfLife2.jpg)
+
 </body>
 
 </html>
